@@ -9,7 +9,7 @@ I'm Nitesh from Bhutan, I'm well versed in Web design, development and networkin
 * Networking
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraika&theme=github_dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraika&theme=github_dark) -->
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshraika&show_icons=true&theme=github_dark)
