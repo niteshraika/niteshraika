@@ -12,7 +12,8 @@ I'm Nitesh from Bhutan, I'm well versed in Web design, development and networkin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshraika&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshraika&show_icons=true&theme=dark)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=niteshraika&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niteshraika&show_icons=true&theme=dark)
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=niteshraika&theme=dark)  
 
