@@ -14,8 +14,6 @@
 * <img align="left" alt="HTML5" width="26px" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" /> HTML
 
 * <img align="left" alt="CSS" width="26px" src="https://seeklogo.com/images/C/css3-logo-647BAA43FE-seeklogo.com.png" /> CSS
-
-
 * <img align="left" alt="Sass" width="26px" src="https://seeklogo.com/images/S/sass-logo-EFE1469B2C-seeklogo.com.png" /> SASS
 
 * <img align="left" alt="JavaScript" width="26px" src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" /> JS
