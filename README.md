@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Nitesh Raika Mongar
-#### I'm Nitesh from Bhutan, I'm well versed in Web design, development and networking assignments and I really enjoy Learning languages and frameworks like Vuejs, Laravel, as well as work in Wordpress.
+#### I'm Nitesh from Bhutan, I'm well versed in Web design, development and networking assignments.
 
 ### Skills and Experience
 
