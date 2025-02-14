@@ -13,6 +13,7 @@
 * PHP
 * Docker
 * SQL
+* Fastapi
 * DevSecOps
 
 <br/>
