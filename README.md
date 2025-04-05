@@ -19,15 +19,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="center">I'm Nitesh Raika Mongar from Bhutan<br><br>🔭 I’m working as a Programmer/DevOps Engineer</p>
 
 ###
 
-<p align="left">I'm Nitesh Raika Mongar from Bhutan<br><br>🔭 I’m working as a Programmer/DevOps Engineer</p>
-
-###
-
-<h3 align="left">🛠  Language and tools</h3>
+<h3 align="center">🛠  Language and tools</h3>
 
 ###
 
@@ -109,15 +105,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshraika&show_icons=true&locale=en" alt="niteshraika" /></div>
-
-###
-
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshraika&" alt="niteshraika" /></div>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -125,5 +113,16 @@
 
 ###
 
-<h3 align="left">❤️   Support:</h3>
-<p><a href="https://www.buymeacoffee.com/niteshraika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niteshraika" /></a>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshraika&" alt="niteshraika" /></div>
+
+###
+
+<h3 align="center">❤️   Support:</h3>
+<div align="center"><a href="https://www.buymeacoffee.com/niteshraika"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niteshraika" /></div>
+
+###
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=niteshraika&label=Profile%20views&color=0e75b6&style=flat" alt="niteshraika" /> </p>
+
+
+
