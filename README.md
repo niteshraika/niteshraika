@@ -27,11 +27,11 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠  Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
@@ -113,10 +113,17 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31dgjmmm4x343s2p4h3ynot5mq3i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dgjmmm4x343s2p4h3ynot5mq3i&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=niteshraika&show_icons=true&locale=en" alt="niteshraika" /></div>
 
 ###
+
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niteshraika&" alt="niteshraika" /></div>
+
+###
+
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshraika" alt="niteshraika" /></a> </div>
+
+###
+
+<h3 align="left">❤️   Support:</h3>
+<p><a href="https://www.buymeacoffee.com/niteshraika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="niteshraika" /></a>
