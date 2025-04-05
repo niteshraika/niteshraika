@@ -123,7 +123,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25kMWgwMWo3OGJvY2tlY3lzY3p5cWtlbjlya295djM0c3I1NTBlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4v7CVuZzR5PDprJuq/giphy.gif"  />
+  <img height="100" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5rbWllaW1nZG56cmp0ejZicWdxZWdoMTlzbzZlOG91aTlyMHpqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iDPTeazQSvHEhY1Gic/giphy.gif"  />
 </div>
 
 ###
